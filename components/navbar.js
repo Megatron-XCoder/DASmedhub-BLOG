@@ -32,7 +32,7 @@ export default function Navbar(props) {
                   <div className="flex flex-wrap items-center justify-between md:flex-nowrap md:gap-10">
                     {/* Logo and Hamburger in the same flex container */}
                     <div className="flex w-full items-center justify-between md:w-auto">
-                      <Link href="https://dasmedhub.vercel.app/" className="text-3xl font-bold">
+                      <Link href="http://localhost:5173/" className="text-3xl font-bold">
                         <span className="text-teal-600">DAS</span>
                         <span className="text-orange-400">medhub</span>
                       </Link>
